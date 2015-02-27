@@ -1,0 +1,17 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai (SL) (SublimePythonIDE).tmTheme",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimePythonIDE"
+	],
+	"rulers":
+	[
+		79
+	],
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
+}
