@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,8 +8,9 @@
 		"Alignment",
 		"All Autocomplete",
 		"BracketHighlighter",
-		"Git",
+		"CForm",
 		"GitGutter",
+		"INI",
 		"Jinja2",
 		"Package Control",
 		"Pretty JSON",
@@ -21,6 +23,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
+		"SublimeLinter-pyyaml",
 		"SublimeLinter-ruby",
 		"SublimeLinter-shellcheck",
 		"SublimePythonIDE",

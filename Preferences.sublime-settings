@@ -2,7 +2,8 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Monokai (SL) (SublimePythonIDE).tmTheme",
-	"font_size": 10,
+	"font_face": "source code pro medium",
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
